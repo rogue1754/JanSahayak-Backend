@@ -8,8 +8,8 @@ public enum EducationLevel {
     INTERMEDIATE,
     ITI,
     DIPLOMA,
-    BACHELORS_DEGREE,
-    MASTERS_DEGREE,
+    GRADUATE,
+    POST_GRADUATE,
     PHD,
     OTHER
 }
