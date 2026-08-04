@@ -1,0 +1,2038 @@
+[
+  {
+    "schemeName": "Chief Minister's State Disability Pension Scheme - Sikkim",
+    "description": "Chief Minister's State Disability Pension Scheme - Sikkim is a government scheme/programme administered by Women & Child Development Department, Government of Sikkim.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Chief Minister's State Disability Pension Scheme - Sikkim.",
+    "category": "PENSION",
+    "ministry": "Women & Child Development Department, Government of Sikkim",
+    "schemeLevel": "STATE",
+    "state": "Sikkim",
+    "applicationUrl": "https://pensionscheme.sikkim.gov.in/",
+    "applicationDeadline": "Ongoing; life-certificate deadlines notified separately",
+    "sourceUrl": "https://pensionscheme.sikkim.gov.in/",
+    "sourceType": "VERIFIED",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STATE",
+        "operator": "EQUALS",
+        "expectedValue": "Sikkim",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy Sikkim residency or implementing-authority requirements."
+      },
+      {
+        "field": "DISABLED",
+        "operator": "EQUALS",
+        "expectedValue": "true",
+        "mandatory": true,
+        "rawRule": "Applicant must be a person with disability under the applicable scheme rules."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Disability Certificate",
+        "description": "Valid disability certificate issued by the competent authority.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Chief Ministergi Artistesinggi Tengbang (CMAT) - Scheme For Award To Distinguished Artistes",
+    "description": "Chief Ministergi Artistesinggi Tengbang (CMAT) - Scheme For Award To Distinguished Artistes is a government scheme/programme administered by Department of Art and Culture, Government of Manipur.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Chief Ministergi Artistesinggi Tengbang (CMAT) - Scheme For Award To Distinguished Artistes.",
+    "category": "SOCIAL_WELFARE",
+    "ministry": "Department of Art and Culture, Government of Manipur",
+    "schemeLevel": "STATE",
+    "state": "Manipur",
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STATE",
+        "operator": "EQUALS",
+        "expectedValue": "Manipur",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy Manipur residency or implementing-authority requirements."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Chief Ministergi Artistesinggi Tengbang (CMAT) – Artiste’s Pension",
+    "description": "Chief Ministergi Artistesinggi Tengbang (CMAT) – Artiste’s Pension is a government scheme/programme administered by Department of Art and Culture, Government of Manipur.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Chief Ministergi Artistesinggi Tengbang (CMAT) – Artiste’s Pension.",
+    "category": "PENSION",
+    "ministry": "Department of Art and Culture, Government of Manipur",
+    "schemeLevel": "STATE",
+    "state": "Manipur",
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STATE",
+        "operator": "EQUALS",
+        "expectedValue": "Manipur",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy Manipur residency or implementing-authority requirements."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Chief Ministergi Artistesinggi Tengbang (CMAT) – Scheme Of Festival Assistance For Participating In International & National Festival",
+    "description": "Chief Ministergi Artistesinggi Tengbang (CMAT) – Scheme Of Festival Assistance For Participating In International & National Festival is a government scheme/programme administered by Department of Art and Culture, Government of Manipur.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Chief Ministergi Artistesinggi Tengbang (CMAT) – Scheme Of Festival Assistance For Participating In International & National Festival.",
+    "category": "SOCIAL_WELFARE",
+    "ministry": "Department of Art and Culture, Government of Manipur",
+    "schemeLevel": "STATE",
+    "state": "Manipur",
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STATE",
+        "operator": "EQUALS",
+        "expectedValue": "Manipur",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy Manipur residency or implementing-authority requirements."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Chief Ministergi Artistesinggi Tengbang (CMAT): Support For Purchase Of Instruments / Equipment",
+    "description": "Chief Ministergi Artistesinggi Tengbang (CMAT): Support For Purchase Of Instruments / Equipment is a government scheme/programme administered by Department of Art and Culture, Government of Manipur.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Chief Ministergi Artistesinggi Tengbang (CMAT): Support For Purchase Of Instruments / Equipment.",
+    "category": "SOCIAL_WELFARE",
+    "ministry": "Department of Art and Culture, Government of Manipur",
+    "schemeLevel": "STATE",
+    "state": "Manipur",
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STATE",
+        "operator": "EQUALS",
+        "expectedValue": "Manipur",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy Manipur residency or implementing-authority requirements."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "District Central Cooperative Banks and through its Branches: For SSI Unit Loan and Other NFS Activities",
+    "description": "District Central Cooperative Banks and through its Branches: For SSI Unit Loan and Other NFS Activities is a government scheme/programme administered by Co-operation, Food and Consumer Protection Department, Government of Tamil Nadu.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under District Central Cooperative Banks and through its Branches: For SSI Unit Loan and Other NFS Activities.",
+    "category": "BUSINESS",
+    "ministry": "Co-operation, Food and Consumer Protection Department, Government of Tamil Nadu",
+    "schemeLevel": "STATE",
+    "state": "Tamil Nadu",
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STATE",
+        "operator": "EQUALS",
+        "expectedValue": "Tamil Nadu",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy Tamil Nadu residency or implementing-authority requirements."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Loan / Project Documents",
+        "description": "Project, quotation, loan or business documents required by the financing institution.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "District Central Cooperative Banks and through its Branches: For Women Entrepreneurs",
+    "description": "District Central Cooperative Banks and through its Branches: For Women Entrepreneurs is a government scheme/programme administered by Co-operation, Food and Consumer Protection Department, Government of Tamil Nadu.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under District Central Cooperative Banks and through its Branches: For Women Entrepreneurs.",
+    "category": "BUSINESS",
+    "ministry": "Co-operation, Food and Consumer Protection Department, Government of Tamil Nadu",
+    "schemeLevel": "STATE",
+    "state": "Tamil Nadu",
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STATE",
+        "operator": "EQUALS",
+        "expectedValue": "Tamil Nadu",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy Tamil Nadu residency or implementing-authority requirements."
+      },
+      {
+        "field": "GENDER",
+        "operator": "EQUALS",
+        "expectedValue": "FEMALE",
+        "mandatory": true,
+        "rawRule": "Applicant must be a woman."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Loan / Project Documents",
+        "description": "Project, quotation, loan or business documents required by the financing institution.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "District Central Cooperative Banks and through its Branches: For Working Women",
+    "description": "District Central Cooperative Banks and through its Branches: For Working Women is a government scheme/programme administered by Co-operation, Food and Consumer Protection Department, Government of Tamil Nadu.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under District Central Cooperative Banks and through its Branches: For Working Women.",
+    "category": "SOCIAL_WELFARE",
+    "ministry": "Co-operation, Food and Consumer Protection Department, Government of Tamil Nadu",
+    "schemeLevel": "STATE",
+    "state": "Tamil Nadu",
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STATE",
+        "operator": "EQUALS",
+        "expectedValue": "Tamil Nadu",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy Tamil Nadu residency or implementing-authority requirements."
+      },
+      {
+        "field": "GENDER",
+        "operator": "EQUALS",
+        "expectedValue": "FEMALE",
+        "mandatory": true,
+        "rawRule": "Applicant must be a woman."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "District Central Cooperative Banks and through its Branches: Small Road Transport Operators Loan (SRTO Loan)",
+    "description": "District Central Cooperative Banks and through its Branches: Small Road Transport Operators Loan (SRTO Loan) is a government scheme/programme administered by Co-operation, Food and Consumer Protection Department, Government of Tamil Nadu.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under District Central Cooperative Banks and through its Branches: Small Road Transport Operators Loan (SRTO Loan).",
+    "category": "BUSINESS",
+    "ministry": "Co-operation, Food and Consumer Protection Department, Government of Tamil Nadu",
+    "schemeLevel": "STATE",
+    "state": "Tamil Nadu",
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STATE",
+        "operator": "EQUALS",
+        "expectedValue": "Tamil Nadu",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy Tamil Nadu residency or implementing-authority requirements."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Loan / Project Documents",
+        "description": "Project, quotation, loan or business documents required by the financing institution.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "District Innovation And Challenge Fund",
+    "description": "District Innovation And Challenge Fund is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under District Innovation And Challenge Fund.",
+    "category": "SOCIAL_WELFARE",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": null,
+        "operator": null,
+        "expectedValue": null,
+        "mandatory": true,
+        "rawRule": "Eligibility is governed by the detailed conditions of the implementing authority; no additional frontend-safe criterion is asserted in this seed."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "District Level Sports School",
+    "description": "District Level Sports School is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under District Level Sports School.",
+    "category": "SOCIAL_WELFARE",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": null,
+        "operator": null,
+        "expectedValue": null,
+        "mandatory": true,
+        "rawRule": "Eligibility is governed by the detailed conditions of the implementing authority; no additional frontend-safe criterion is asserted in this seed."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Divyang Pension Scheme - Uttarakhand",
+    "description": "Divyang Pension Scheme - Uttarakhand is a government scheme/programme administered by Social Welfare Department, Government of Uttarakhand.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Divyang Pension Scheme - Uttarakhand.",
+    "category": "PENSION",
+    "ministry": "Social Welfare Department, Government of Uttarakhand",
+    "schemeLevel": "STATE",
+    "state": "Uttarakhand",
+    "applicationUrl": null,
+    "applicationDeadline": "Ongoing",
+    "sourceUrl": "https://socialwelfare.uk.gov.in/",
+    "sourceType": "VERIFIED",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STATE",
+        "operator": "EQUALS",
+        "expectedValue": "Uttarakhand",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy Uttarakhand residency or implementing-authority requirements."
+      },
+      {
+        "field": "DISABLED",
+        "operator": "EQUALS",
+        "expectedValue": "true",
+        "mandatory": true,
+        "rawRule": "Applicant must be a person with disability under the applicable scheme rules."
+      },
+      {
+        "field": "AGE",
+        "operator": "GREATER_THAN_OR_EQUAL",
+        "expectedValue": "18",
+        "mandatory": true,
+        "rawRule": "Applicant must be at least 18 years old."
+      },
+      {
+        "field": "ANNUAL_INCOME",
+        "operator": "LESS_THAN_OR_EQUAL",
+        "expectedValue": "48000",
+        "mandatory": false,
+        "rawRule": "Applicant/guardian income must satisfy the notified income ceiling or the applicant must be a BPL card holder."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Disability Certificate",
+        "description": "Valid disability certificate issued by the competent authority.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Divyang Pension Yojana",
+    "description": "Divyang Pension Yojana is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Divyang Pension Yojana.",
+    "category": "PENSION",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "DISABLED",
+        "operator": "EQUALS",
+        "expectedValue": "true",
+        "mandatory": true,
+        "rawRule": "Applicant must be a person with disability under the applicable scheme rules."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Disability Certificate",
+        "description": "Valid disability certificate issued by the competent authority.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Divyang Shiksha Protsahan Yojana",
+    "description": "Divyang Shiksha Protsahan Yojana is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Divyang Shiksha Protsahan Yojana.",
+    "category": "EDUCATION",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "DISABLED",
+        "operator": "EQUALS",
+        "expectedValue": "true",
+        "mandatory": true,
+        "rawRule": "Applicant must be a person with disability under the applicable scheme rules."
+      },
+      {
+        "field": "STUDENT",
+        "operator": "EQUALS",
+        "expectedValue": "true",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy the student/education status required by the scheme."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Academic / Institution Documents",
+        "description": "Marksheet, enrolment or institution proof as applicable.",
+        "mandatory": true
+      },
+      {
+        "name": "Disability Certificate",
+        "description": "Valid disability certificate issued by the competent authority.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Divyangjan Scholarship Scheme",
+    "description": "Divyangjan Scholarship Scheme is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Divyangjan Scholarship Scheme.",
+    "category": "EDUCATION",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "DISABLED",
+        "operator": "EQUALS",
+        "expectedValue": "true",
+        "mandatory": true,
+        "rawRule": "Applicant must be a person with disability under the applicable scheme rules."
+      },
+      {
+        "field": "STUDENT",
+        "operator": "EQUALS",
+        "expectedValue": "true",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy the student/education status required by the scheme."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Academic / Institution Documents",
+        "description": "Marksheet, enrolment or institution proof as applicable.",
+        "mandatory": true
+      },
+      {
+        "name": "Disability Certificate",
+        "description": "Valid disability certificate issued by the competent authority.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Diwali Gift Benefit Scheme (PBAOCWWB)",
+    "description": "Diwali Gift Benefit Scheme (PBAOCWWB) is a government scheme/programme administered by Punjab Building and Other Construction Workers Welfare Board.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Diwali Gift Benefit Scheme (PBAOCWWB).",
+    "category": "SOCIAL_WELFARE",
+    "ministry": "Punjab Building and Other Construction Workers Welfare Board",
+    "schemeLevel": "STATE",
+    "state": "Punjab",
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STATE",
+        "operator": "EQUALS",
+        "expectedValue": "Punjab",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy Punjab residency or implementing-authority requirements."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Worker Registration Proof",
+        "description": "Valid welfare-board or worker registration proof where applicable.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Documentation And Research Assistantship Scheme",
+    "description": "Documentation And Research Assistantship Scheme is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Documentation And Research Assistantship Scheme.",
+    "category": "SOCIAL_WELFARE",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": null,
+        "operator": null,
+        "expectedValue": null,
+        "mandatory": true,
+        "rawRule": "Eligibility is governed by the detailed conditions of the implementing authority; no additional frontend-safe criterion is asserted in this seed."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Domestic Funding Of Foreign Training",
+    "description": "Domestic Funding Of Foreign Training is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Domestic Funding Of Foreign Training.",
+    "category": "SOCIAL_WELFARE",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": null,
+        "operator": null,
+        "expectedValue": null,
+        "mandatory": true,
+        "rawRule": "Eligibility is governed by the detailed conditions of the implementing authority; no additional frontend-safe criterion is asserted in this seed."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Doodh Sanjeevani Yojana",
+    "description": "Doodh Sanjeevani Yojana is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Doodh Sanjeevani Yojana.",
+    "category": "AGRICULTURE",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": null,
+        "operator": null,
+        "expectedValue": null,
+        "mandatory": true,
+        "rawRule": "Eligibility is governed by the detailed conditions of the implementing authority; no additional frontend-safe criterion is asserted in this seed."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Doodh Sanjivani Scheme",
+    "description": "Doodh Sanjivani Scheme is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Doodh Sanjivani Scheme.",
+    "category": "AGRICULTURE",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": null,
+        "operator": null,
+        "expectedValue": null,
+        "mandatory": true,
+        "rawRule": "Eligibility is governed by the detailed conditions of the implementing authority; no additional frontend-safe criterion is asserted in this seed."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Dr Ambedkar Central Sector Scheme of Interest Subsidy on Educational Loans for Overseas Studies for Other Backward Classes (OBCs) and Economically Backward Classes (EBCs)",
+    "description": "Dr Ambedkar Central Sector Scheme of Interest Subsidy on Educational Loans for Overseas Studies for Other Backward Classes (OBCs) and Economically Backward Classes (EBCs) is a government scheme/programme administered by Ministry of Social Justice and Empowerment.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Dr Ambedkar Central Sector Scheme of Interest Subsidy on Educational Loans for Overseas Studies for Other Backward Classes (OBCs) and Economically Backward Classes (EBCs).",
+    "category": "EDUCATION",
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "schemeLevel": "CENTRAL",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STUDENT",
+        "operator": "EQUALS",
+        "expectedValue": "true",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy the student/education status required by the scheme."
+      },
+      {
+        "field": "CATEGORY",
+        "operator": "EQUALS",
+        "expectedValue": "OBC",
+        "mandatory": true,
+        "rawRule": "Applicant must belong to the eligible OBC category."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Academic / Institution Documents",
+        "description": "Marksheet, enrolment or institution proof as applicable.",
+        "mandatory": true
+      },
+      {
+        "name": "Loan / Project Documents",
+        "description": "Project, quotation, loan or business documents required by the financing institution.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Dr. A.N. Mukhopadhyay Gold Medal Award (B.Sc. Agriculture - Final Year Student)",
+    "description": "Dr. A.N. Mukhopadhyay Gold Medal Award (B.Sc. Agriculture - Final Year Student) is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Dr. A.N. Mukhopadhyay Gold Medal Award (B.Sc. Agriculture - Final Year Student).",
+    "category": "EDUCATION",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STUDENT",
+        "operator": "EQUALS",
+        "expectedValue": "true",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy the student/education status required by the scheme."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Academic / Institution Documents",
+        "description": "Marksheet, enrolment or institution proof as applicable.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Dr. A.N. Mukhopadhyay Needy Student Fund (B.Sc. Agriculture - Final Year Student)",
+    "description": "Dr. A.N. Mukhopadhyay Needy Student Fund (B.Sc. Agriculture - Final Year Student) is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Dr. A.N. Mukhopadhyay Needy Student Fund (B.Sc. Agriculture - Final Year Student).",
+    "category": "EDUCATION",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STUDENT",
+        "operator": "EQUALS",
+        "expectedValue": "true",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy the student/education status required by the scheme."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Academic / Institution Documents",
+        "description": "Marksheet, enrolment or institution proof as applicable.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Dr. A.P.J. Abdul Kalam Meritorious Students Incentive Scheme (Class 12th Passed)",
+    "description": "Dr. A.P.J. Abdul Kalam Meritorious Students Incentive Scheme (Class 12th Passed) is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Dr. A.P.J. Abdul Kalam Meritorious Students Incentive Scheme (Class 12th Passed).",
+    "category": "EDUCATION",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STUDENT",
+        "operator": "EQUALS",
+        "expectedValue": "true",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy the student/education status required by the scheme."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Academic / Institution Documents",
+        "description": "Marksheet, enrolment or institution proof as applicable.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Dr. APJ Abdul Kalam Shramik Pravidhik Shiksha Sahaayata Yojana",
+    "description": "Dr. APJ Abdul Kalam Shramik Pravidhik Shiksha Sahaayata Yojana is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Dr. APJ Abdul Kalam Shramik Pravidhik Shiksha Sahaayata Yojana.",
+    "category": "EDUCATION",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STUDENT",
+        "operator": "EQUALS",
+        "expectedValue": "true",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy the student/education status required by the scheme."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Academic / Institution Documents",
+        "description": "Marksheet, enrolment or institution proof as applicable.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Dr. Ambedakar Centrally Sponsored Scheme of Post-Matric Scholarships for the Economically Backward Class (EBC) Students",
+    "description": "Dr. Ambedakar Centrally Sponsored Scheme of Post-Matric Scholarships for the Economically Backward Class (EBC) Students is a government scheme/programme administered by Ministry of Social Justice and Empowerment.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Dr. Ambedakar Centrally Sponsored Scheme of Post-Matric Scholarships for the Economically Backward Class (EBC) Students.",
+    "category": "EDUCATION",
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "schemeLevel": "CENTRAL",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STUDENT",
+        "operator": "EQUALS",
+        "expectedValue": "true",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy the student/education status required by the scheme."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Academic / Institution Documents",
+        "description": "Marksheet, enrolment or institution proof as applicable.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Dr. Ambedkar Awas Yojana",
+    "description": "Dr. Ambedkar Awas Yojana is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Dr. Ambedkar Awas Yojana.",
+    "category": "SOCIAL_WELFARE",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": null,
+        "operator": null,
+        "expectedValue": null,
+        "mandatory": true,
+        "rawRule": "Eligibility is governed by the detailed conditions of the implementing authority; no additional frontend-safe criterion is asserted in this seed."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Dr. Ambedkar Foundation Essay Competition Scheme for Class 10th-12th & Colleges/Universities/Institutions Students in 22 Indian Languages and English",
+    "description": "Dr. Ambedkar Foundation Essay Competition Scheme for Class 10th-12th & Colleges/Universities/Institutions Students in 22 Indian Languages and English is a government scheme/programme administered by Ministry of Social Justice and Empowerment.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Dr. Ambedkar Foundation Essay Competition Scheme for Class 10th-12th & Colleges/Universities/Institutions Students in 22 Indian Languages and English.",
+    "category": "EDUCATION",
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "schemeLevel": "CENTRAL",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STUDENT",
+        "operator": "EQUALS",
+        "expectedValue": "true",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy the student/education status required by the scheme."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Academic / Institution Documents",
+        "description": "Marksheet, enrolment or institution proof as applicable.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Dr. Ambedkar Medhavi Chattar Sansodhit Yojna",
+    "description": "Dr. Ambedkar Medhavi Chattar Sansodhit Yojna is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Dr. Ambedkar Medhavi Chattar Sansodhit Yojna.",
+    "category": "SOCIAL_WELFARE",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": "Haryana",
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STATE",
+        "operator": "EQUALS",
+        "expectedValue": "Haryana",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy Haryana residency or implementing-authority requirements."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Funeral Assistance Scheme (PULWS)",
+    "description": "Funeral Assistance Scheme (PULWS) is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Funeral Assistance Scheme (PULWS).",
+    "category": "FINANCIAL_ASSISTANCE",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": null,
+        "operator": null,
+        "expectedValue": null,
+        "mandatory": true,
+        "rawRule": "Eligibility is governed by the detailed conditions of the implementing authority; no additional frontend-safe criterion is asserted in this seed."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Death Certificate",
+        "description": "Death certificate of the eligible worker/beneficiary.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Funeral Assistance Scheme for Unorganized Workers (Except Construction Workers)",
+    "description": "Funeral Assistance Scheme for Unorganized Workers (Except Construction Workers) is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Funeral Assistance Scheme for Unorganized Workers (Except Construction Workers).",
+    "category": "FINANCIAL_ASSISTANCE",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": null,
+        "operator": null,
+        "expectedValue": null,
+        "mandatory": true,
+        "rawRule": "Eligibility is governed by the detailed conditions of the implementing authority; no additional frontend-safe criterion is asserted in this seed."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Death Certificate",
+        "description": "Death certificate of the eligible worker/beneficiary.",
+        "mandatory": true
+      },
+      {
+        "name": "Worker Registration Proof",
+        "description": "Valid welfare-board or worker registration proof where applicable.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Funeral Assistance for the Construction Worker",
+    "description": "Funeral Assistance for the Construction Worker is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Funeral Assistance for the Construction Worker.",
+    "category": "FINANCIAL_ASSISTANCE",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": null,
+        "operator": null,
+        "expectedValue": null,
+        "mandatory": true,
+        "rawRule": "Eligibility is governed by the detailed conditions of the implementing authority; no additional frontend-safe criterion is asserted in this seed."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Death Certificate",
+        "description": "Death certificate of the eligible worker/beneficiary.",
+        "mandatory": true
+      },
+      {
+        "name": "Worker Registration Proof",
+        "description": "Valid welfare-board or worker registration proof where applicable.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Funeral Assistance for the Construction Workers",
+    "description": "Funeral Assistance for the Construction Workers is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Funeral Assistance for the Construction Workers.",
+    "category": "FINANCIAL_ASSISTANCE",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": null,
+        "operator": null,
+        "expectedValue": null,
+        "mandatory": true,
+        "rawRule": "Eligibility is governed by the detailed conditions of the implementing authority; no additional frontend-safe criterion is asserted in this seed."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Death Certificate",
+        "description": "Death certificate of the eligible worker/beneficiary.",
+        "mandatory": true
+      },
+      {
+        "name": "Worker Registration Proof",
+        "description": "Valid welfare-board or worker registration proof where applicable.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Funeral Assistance- Haryana Silicosis Board",
+    "description": "Funeral Assistance- Haryana Silicosis Board is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Funeral Assistance- Haryana Silicosis Board.",
+    "category": "FINANCIAL_ASSISTANCE",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": "Haryana",
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STATE",
+        "operator": "EQUALS",
+        "expectedValue": "Haryana",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy Haryana residency or implementing-authority requirements."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Death Certificate",
+        "description": "Death certificate of the eligible worker/beneficiary.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Funeral Benefit (MBOCWWB)",
+    "description": "Funeral Benefit (MBOCWWB) is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Funeral Benefit (MBOCWWB).",
+    "category": "FINANCIAL_ASSISTANCE",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": null,
+        "operator": null,
+        "expectedValue": null,
+        "mandatory": true,
+        "rawRule": "Eligibility is governed by the detailed conditions of the implementing authority; no additional frontend-safe criterion is asserted in this seed."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Death Certificate",
+        "description": "Death certificate of the eligible worker/beneficiary.",
+        "mandatory": true
+      },
+      {
+        "name": "Worker Registration Proof",
+        "description": "Valid welfare-board or worker registration proof where applicable.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Funeral Expenses for the Construction Workers",
+    "description": "Funeral Expenses for the Construction Workers is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Funeral Expenses for the Construction Workers.",
+    "category": "FINANCIAL_ASSISTANCE",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": null,
+        "operator": null,
+        "expectedValue": null,
+        "mandatory": true,
+        "rawRule": "Eligibility is governed by the detailed conditions of the implementing authority; no additional frontend-safe criterion is asserted in this seed."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Death Certificate",
+        "description": "Death certificate of the eligible worker/beneficiary.",
+        "mandatory": true
+      },
+      {
+        "name": "Worker Registration Proof",
+        "description": "Valid welfare-board or worker registration proof where applicable.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Funeral Financial Assistant (APB&OCWWB)",
+    "description": "Funeral Financial Assistant (APB&OCWWB) is a government scheme/programme administered by Andhra Pradesh Building and Other Construction Workers Welfare Board.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Funeral Financial Assistant (APB&OCWWB).",
+    "category": "FINANCIAL_ASSISTANCE",
+    "ministry": "Andhra Pradesh Building and Other Construction Workers Welfare Board",
+    "schemeLevel": "STATE",
+    "state": "Andhra Pradesh",
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STATE",
+        "operator": "EQUALS",
+        "expectedValue": "Andhra Pradesh",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy Andhra Pradesh residency or implementing-authority requirements."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Death Certificate",
+        "description": "Death certificate of the eligible worker/beneficiary.",
+        "mandatory": true
+      },
+      {
+        "name": "Worker Registration Proof",
+        "description": "Valid welfare-board or worker registration proof where applicable.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Funeral Grant (Sainik Welfare)",
+    "description": "Funeral Grant (Sainik Welfare) is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Funeral Grant (Sainik Welfare).",
+    "category": "FINANCIAL_ASSISTANCE",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": null,
+        "operator": null,
+        "expectedValue": null,
+        "mandatory": true,
+        "rawRule": "Eligibility is governed by the detailed conditions of the implementing authority; no additional frontend-safe criterion is asserted in this seed."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Death Certificate",
+        "description": "Death certificate of the eligible worker/beneficiary.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Funeral Support Scheme (HPBOCWWB)",
+    "description": "Funeral Support Scheme (HPBOCWWB) is a government scheme/programme administered by Himachal Pradesh Building and Other Construction Workers Welfare Board.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Funeral Support Scheme (HPBOCWWB).",
+    "category": "FINANCIAL_ASSISTANCE",
+    "ministry": "Himachal Pradesh Building and Other Construction Workers Welfare Board",
+    "schemeLevel": "STATE",
+    "state": "Himachal Pradesh",
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STATE",
+        "operator": "EQUALS",
+        "expectedValue": "Himachal Pradesh",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy Himachal Pradesh residency or implementing-authority requirements."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Death Certificate",
+        "description": "Death certificate of the eligible worker/beneficiary.",
+        "mandatory": true
+      },
+      {
+        "name": "Worker Registration Proof",
+        "description": "Valid welfare-board or worker registration proof where applicable.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Funeral and Ex-Gratia (K.B.O.C.W.W.B)",
+    "description": "Funeral and Ex-Gratia (K.B.O.C.W.W.B) is a government scheme/programme administered by Karnataka Building and Other Construction Workers Welfare Board.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Funeral and Ex-Gratia (K.B.O.C.W.W.B).",
+    "category": "FINANCIAL_ASSISTANCE",
+    "ministry": "Karnataka Building and Other Construction Workers Welfare Board",
+    "schemeLevel": "STATE",
+    "state": "Karnataka",
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STATE",
+        "operator": "EQUALS",
+        "expectedValue": "Karnataka",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy Karnataka residency or implementing-authority requirements."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Death Certificate",
+        "description": "Death certificate of the eligible worker/beneficiary.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Futkar Sabji, Phal-Phool Vikreta Hetu Taraju, Baat Evan Tokari Sahaayata Yojana",
+    "description": "Futkar Sabji, Phal-Phool Vikreta Hetu Taraju, Baat Evan Tokari Sahaayata Yojana is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Futkar Sabji, Phal-Phool Vikreta Hetu Taraju, Baat Evan Tokari Sahaayata Yojana.",
+    "category": "SOCIAL_WELFARE",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": "Uttar Pradesh",
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STATE",
+        "operator": "EQUALS",
+        "expectedValue": "Uttar Pradesh",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy Uttar Pradesh residency or implementing-authority requirements."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "FutureSkills Prime Incentive Program",
+    "description": "FutureSkills Prime Incentive Program is a government scheme/programme administered by Ministry of Electronics and Information Technology / NASSCOM.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under FutureSkills Prime Incentive Program.",
+    "category": "SKILL_DEVELOPMENT",
+    "ministry": "Ministry of Electronics and Information Technology / NASSCOM",
+    "schemeLevel": "CENTRAL",
+    "state": null,
+    "applicationUrl": "https://www.futureskillsprime.in/",
+    "applicationDeadline": "Ongoing / incentive terms as notified",
+    "sourceUrl": "https://www.futureskillsprime.in/",
+    "sourceType": "VERIFIED",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": null,
+        "operator": null,
+        "expectedValue": null,
+        "mandatory": true,
+        "rawRule": "Eligibility is governed by the detailed conditions of the implementing authority; no additional frontend-safe criterion is asserted in this seed."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "GROUP WORKSHED SCHEME",
+    "description": "GROUP WORKSHED SCHEME is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under GROUP WORKSHED SCHEME.",
+    "category": "BUSINESS",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": null,
+        "operator": null,
+        "expectedValue": null,
+        "mandatory": true,
+        "rawRule": "Eligibility is governed by the detailed conditions of the implementing authority; no additional frontend-safe criterion is asserted in this seed."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "GST Exemption Certificate Scheme",
+    "description": "GST Exemption Certificate Scheme is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under GST Exemption Certificate Scheme.",
+    "category": "BUSINESS",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": null,
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": null,
+        "operator": null,
+        "expectedValue": null,
+        "mandatory": true,
+        "rawRule": "Eligibility is governed by the detailed conditions of the implementing authority; no additional frontend-safe criterion is asserted in this seed."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Gadiya Lohar Maharana Pratap Bhawan Nirman Yojana",
+    "description": "Gadiya Lohar Maharana Pratap Bhawan Nirman Yojana is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Gadiya Lohar Maharana Pratap Bhawan Nirman Yojana.",
+    "category": "SOCIAL_WELFARE",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": "Rajasthan",
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STATE",
+        "operator": "EQUALS",
+        "expectedValue": "Rajasthan",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy Rajasthan residency or implementing-authority requirements."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Gagan Bharari Shiksha Yojana for OBC (Dhangar) Students",
+    "description": "Gagan Bharari Shiksha Yojana for OBC (Dhangar) Students is a government scheme/programme administered by Directorate of Social Welfare, Government of Goa.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Gagan Bharari Shiksha Yojana for OBC (Dhangar) Students.",
+    "category": "EDUCATION",
+    "ministry": "Directorate of Social Welfare, Government of Goa",
+    "schemeLevel": "STATE",
+    "state": "Goa",
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STATE",
+        "operator": "EQUALS",
+        "expectedValue": "Goa",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy Goa residency or implementing-authority requirements."
+      },
+      {
+        "field": "STUDENT",
+        "operator": "EQUALS",
+        "expectedValue": "true",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy the student/education status required by the scheme."
+      },
+      {
+        "field": "CATEGORY",
+        "operator": "EQUALS",
+        "expectedValue": "OBC",
+        "mandatory": true,
+        "rawRule": "Applicant must belong to the eligible OBC category."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Academic / Institution Documents",
+        "description": "Marksheet, enrolment or institution proof as applicable.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Gagan Bharari Shiksha Yojana for SC Students",
+    "description": "Gagan Bharari Shiksha Yojana for SC Students is a government scheme/programme administered by Directorate of Social Welfare, Government of Goa.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Gagan Bharari Shiksha Yojana for SC Students.",
+    "category": "EDUCATION",
+    "ministry": "Directorate of Social Welfare, Government of Goa",
+    "schemeLevel": "STATE",
+    "state": "Goa",
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STATE",
+        "operator": "EQUALS",
+        "expectedValue": "Goa",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy Goa residency or implementing-authority requirements."
+      },
+      {
+        "field": "STUDENT",
+        "operator": "EQUALS",
+        "expectedValue": "true",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy the student/education status required by the scheme."
+      },
+      {
+        "field": "CATEGORY",
+        "operator": "EQUALS",
+        "expectedValue": "SC",
+        "mandatory": true,
+        "rawRule": "Applicant must belong to the Scheduled Caste category."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Academic / Institution Documents",
+        "description": "Marksheet, enrolment or institution proof as applicable.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Galvanizing Organic Bio-Agro Resources Dhan (GOBARdhan)",
+    "description": "Galvanizing Organic Bio-Agro Resources Dhan (GOBARdhan) is a government scheme/programme administered by Department of Drinking Water and Sanitation, Ministry of Jal Shakti.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Galvanizing Organic Bio-Agro Resources Dhan (GOBARdhan).",
+    "category": "OTHER",
+    "ministry": "Department of Drinking Water and Sanitation, Ministry of Jal Shakti",
+    "schemeLevel": "CENTRAL",
+    "state": null,
+    "applicationUrl": "https://sbm.gov.in/gobardhan/",
+    "applicationDeadline": "Ongoing",
+    "sourceUrl": "https://sbm.gov.in/gobardhan/Home/aboutus",
+    "sourceType": "VERIFIED",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": null,
+        "operator": null,
+        "expectedValue": null,
+        "mandatory": true,
+        "rawRule": "Eligibility is governed by the detailed conditions of the implementing authority; no additional frontend-safe criterion is asserted in this seed."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Garima Greh Shelter Homes For Transgender Persons",
+    "description": "Garima Greh Shelter Homes For Transgender Persons is a government scheme/programme administered by Department of Social Justice and Empowerment, Ministry of Social Justice and Empowerment.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Garima Greh Shelter Homes For Transgender Persons.",
+    "category": "SOCIAL_WELFARE",
+    "ministry": "Department of Social Justice and Empowerment, Ministry of Social Justice and Empowerment",
+    "schemeLevel": "CENTRAL",
+    "state": null,
+    "applicationUrl": "https://transgender.dosje.gov.in/GarimaGreh/LoginG",
+    "applicationDeadline": "Ongoing / shelter admission subject to availability and programme rules",
+    "sourceUrl": "https://transgender.dosje.gov.in/GarimaGreh/LoginG",
+    "sourceType": "VERIFIED",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": null,
+        "operator": null,
+        "expectedValue": null,
+        "mandatory": true,
+        "rawRule": "Eligibility is governed by the detailed conditions of the implementing authority; no additional frontend-safe criterion is asserted in this seed."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "schemeName": "Gaura Shakti Yojana",
+    "description": "Gaura Shakti Yojana is a government scheme/programme administered by Relevant Government Department / Implementing Agency.",
+    "benefits": "Provides the assistance, incentive, pension, service or support notified under Gaura Shakti Yojana.",
+    "category": "SOCIAL_WELFARE",
+    "ministry": "Relevant Government Department / Implementing Agency",
+    "schemeLevel": "STATE",
+    "state": "Uttarakhand",
+    "applicationUrl": null,
+    "applicationDeadline": "As notified by the implementing authority",
+    "sourceUrl": "https://rules.myscheme.gov.in/",
+    "sourceType": "PENDING_REVIEW",
+    "active": true,
+    "eligibilityRules": [
+      {
+        "field": "STATE",
+        "operator": "EQUALS",
+        "expectedValue": "Uttarakhand",
+        "mandatory": true,
+        "rawRule": "Applicant must satisfy Uttarakhand residency or implementing-authority requirements."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Identity Proof",
+        "description": "Government-issued identity proof as required by the scheme.",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Details",
+        "description": "Bank account details for payment/DBT where applicable.",
+        "mandatory": true
+      }
+    ]
+  }
+]

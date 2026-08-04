@@ -1,0 +1,17 @@
+package JanSahayak.Hackathon.Enums;
+
+public enum SchemeCategory {
+    EDUCATION,
+    AGRICULTURE,
+    HEALTHCARE,
+    HOUSING,
+    WOMEN_AND_CHILDREN,
+    BUSINESS,
+    EMPLOYMENT,
+    PENSION,
+    DISABILITY,
+    SOCIAL_WELFARE,
+    SKILL_DEVELOPMENT,
+    FINANCIAL_ASSISTANCE,
+    OTHER
+}
