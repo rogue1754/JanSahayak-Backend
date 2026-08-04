@@ -10,7 +10,15 @@ import lombok.*;
 @Builder
 public class RankedSchemeDTO {
 
-    private Scheme scheme;
+    private Long id;
+
+    private String name;
+
+    private String ministry;
+
+    private String state;
+
+    private String applicationDeadline;
 
     private int matchScore;
 

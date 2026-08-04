@@ -61,7 +61,11 @@ public class SchemeRankingService {
 
             rankedSchemes.add(
                     RankedSchemeDTO.builder()
-                            .scheme(scheme)
+                            .id(scheme.getId())
+                            .name(scheme.getName())
+                            .ministry(scheme.getMinistry())
+                            .state(scheme.getState())
+                            .applicationDeadline(scheme.getApplicationDeadline())
                             .matchScore(score)
                             .matchedCriteria(matchedCriteria)
                             .totalCriteria(totalCriteria)
