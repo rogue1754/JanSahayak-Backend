@@ -43,7 +43,7 @@ public class SchemeRankingService {
 
             for (EligibilityRule rule : rules) {
 
-                // Ignore rules Gemini could not safely structure
+                // Ignore rules that cannot be evaluated safely
                 if (rule.getField() == null ||
                         rule.getOperator() == null) {
                     continue;

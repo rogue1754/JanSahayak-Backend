@@ -1,10 +1,10 @@
 package JanSahayak.Hackathon.DTOs;
 
+
 import JanSahayak.Hackathon.Enums.SchemeCategory;
 import JanSahayak.Hackathon.Enums.SchemeLevel;
 import JanSahayak.Hackathon.Enums.SourceType;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.List;
 import lombok.*;

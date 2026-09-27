@@ -4,7 +4,6 @@ import JanSahayak.Hackathon.DTOs.ExtractedEligibilityRule;
 import JanSahayak.Hackathon.Entities.EligibilityRule;
 import JanSahayak.Hackathon.Entities.Scheme;
 import JanSahayak.Hackathon.Repository.EligibilityRuleRepository;
-import JanSahayak.Hackathon.Repository.EligibilityRuleRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
@@ -16,7 +15,7 @@ public class EligibilityRuleService {
 
     private final EligibilityRuleRepository eligibilityRuleRepo;
 
-    public List<EligibilityRule> saveExtractedRules(
+    public void saveExtractedRules(
             Scheme scheme,
             List<ExtractedEligibilityRule> extractedRules) {
 
@@ -35,6 +34,6 @@ public class EligibilityRuleService {
                         .build())
                 .toList();
 
-        return eligibilityRuleRepo.saveAll(rules);
+         eligibilityRuleRepo.saveAll(rules);
     }
 }

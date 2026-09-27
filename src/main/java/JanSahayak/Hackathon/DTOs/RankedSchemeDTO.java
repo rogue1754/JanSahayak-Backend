@@ -1,6 +1,5 @@
 package JanSahayak.Hackathon.DTOs;
 
-import JanSahayak.Hackathon.Entities.Scheme;
 import lombok.*;
 
 @Getter

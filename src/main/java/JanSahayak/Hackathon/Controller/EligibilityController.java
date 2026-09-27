@@ -2,8 +2,6 @@ package JanSahayak.Hackathon.Controller;
 
 import JanSahayak.Hackathon.DTOs.EligibilityRequest;
 import JanSahayak.Hackathon.DTOs.RankedSchemeDTO;
-import JanSahayak.Hackathon.Entities.Scheme;
-import JanSahayak.Hackathon.Service.EligibilityMatchingService;
 import JanSahayak.Hackathon.Service.SchemeRankingService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
